@@ -1,0 +1,4 @@
+.NET 4 (at least Client Profile)
+OR Mono
+You can recompile the app for older versions of .NET,
+should probably work
